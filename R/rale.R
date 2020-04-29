@@ -20,5 +20,4 @@ theme_rale <- function(base_size = 11, base_family = "Raleway") {
         plot.subtitle = element_text(size = 10, colour = "grey45"),
         plot.caption = element_text(size = 8, colour = "grey45")
       )
-
 }
