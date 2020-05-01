@@ -1,5 +1,5 @@
 Package: ggminthemes
-Title: ggminthemes: Minimal ggplot2 themes designed by me for me
+Title: Minimal ggplot2 themes designed by me for me
 Version: 0.1.0
 Authors@R: person("Richard", "Paquin Morel", email = "richard.a.morel@gmail.com",
   role = c("aut", "cre"))
