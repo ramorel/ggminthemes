@@ -17,6 +17,8 @@ theme_minima <- function(base_size = 11, base_family = "Minion Pro") {
           axis.text.x = element_text(family = "Roboto", size = 8),
           axis.line.y = element_line(color = "grey20"),
           axis.text.y = element_text(family = "Roboto", size = 8),
+          strip.background = element_blank(),
+          strip.text = element_text(family = "Roboto", size = 8),
           panel.grid.major = element_blank(),
           panel.grid.minor = element_blank())
 
