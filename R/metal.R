@@ -4,6 +4,7 @@
 #'
 #' @inheritParams ggplot2::theme_void
 #' @import ggplot2
+#' @export
 
 theme_metal <- function(base_size = 11, base_family = "Roboto") {
 

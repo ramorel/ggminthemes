@@ -5,6 +5,7 @@
 #'
 #' @inheritParams ggplot2::theme_bw
 #' @import ggplot2
+#' @export
 
 theme_minima <- function(base_size = 11, base_family = "Minion Pro") {
 
