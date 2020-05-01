@@ -4,6 +4,7 @@
 #' Clean and minimal
 #'
 #' @inheritParams ggplot2::theme_minimal
+#' @import ggplot2
 
 theme_rale <- function(base_size = 11, base_family = "Raleway") {
 

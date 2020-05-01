@@ -3,6 +3,7 @@
 #' A map theme with a death metal vibe
 #'
 #' @inheritParams ggplot2::theme_void
+#' @import ggplot2
 
 theme_metal <- function(base_size = 11, base_family = "Roboto") {
 

@@ -4,6 +4,7 @@
 #' Clean, minimal, reveals the fractures of modern life
 #'
 #' @inheritParams ggplot2::theme_bw
+#' @import ggplot2
 
 theme_minima <- function(base_size = 11, base_family = "Minion Pro") {
 
